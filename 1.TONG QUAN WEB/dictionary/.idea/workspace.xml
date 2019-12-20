@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dictionary:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6ef5765-bac9-4d0e-85fd-b2ea6482bfad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/1.TONG QUAN WEB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../server_time/server_time.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI1_Java_Overview/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI1_Java_Overview/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI1_Java_Overview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI1_Java_Overview/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI1_Java_Overview/out/production/BAI_1/META-INF/BAI_1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/FURAMA_RESORT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/FuramaResort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/META-INF/FuramaResort.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/cinema/Cinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/Employees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/EmployeesMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/EmployeesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/filing_cabinets/FilingCabinets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Accommodation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/CustomerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/HouseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/SwimmingPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/SwimmingPoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Tent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Villa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/VillaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Visa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/BookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/MovieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/MusicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment_MasterCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment_Visa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/vehicle/VehicleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/cinema/Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/Employees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/EmployeesMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/EmployeesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/filing_cabinets/FilingCabinets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Accommodation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/CustomerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/HouseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/SwimmingPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/SwimmingPoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Tent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Villa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/VillaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Visa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/MovieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/MusicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment_MasterCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment_Visa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/vehicle/VehicleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/.idea/artifacts/TONG_QUAN_WEB_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/TONG QUAN WEB/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SERVLET/src/Time/ServletTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.Session &amp; Cookie trong Spring/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.Session &amp; Cookie trong Spring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10.Session &amp; Cookie trong Spring/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/province/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/province/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/province/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.CSDL_ORM/CUSTOMER_MAVEN/src/main/webapp/WEB-INF/views/province/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/controller/ProvinceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/entity/Province.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/entity/Province.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/repository/ProvinceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/repository/ProvinceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER_THYMELEAF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER_THYMELEAF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8.Spring Data Repository/spring-jpa-customer-management/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/.idea/artifacts/BT_main_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/codegym/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/java/com/codegym/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/resources/ValidationMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/BT/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/Validate_UserForm/.idea/Validate_UserForm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserService1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/validate-infor-user/src/main/java/com/codegym/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../9.Validating/validate-infor-user/src/main/java/com/codegym/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/.idea/modules/EMPLOY_MANAGEMENT_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/Spring/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/Spring/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/Spring/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/codegym/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/codegym/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/codegym/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/codegym/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/codegym/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/service/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/java/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/views/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/CUSTOMER_GRADLE/src/main/webapp/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/modules/PRODUCT_MANAGEMENT_THYMELEAF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/modules/PRODUCT_MANAGEMENT_THYMELEAF_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/modules/PRODUCT_MANAGEMENT_THYMELEAF_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/java/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/java/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/java/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/java/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/java/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_MANAGEMENT_THYMELEAF/src/main/webapp/views/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/java/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/java/service/ProductServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/java/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AND THYMELEAF/PRODUCT_THYMELEAF/src/main/webapp/views/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/BLOG_MAVEN/.idea/BLOG_MAVEN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/BLOG_MAVEN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/BLOG_MAVEN/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/BLOG_MAVEN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/TH_CUSTOMER_SDL_ORM/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/TH_CUSTOMER_SDL_ORM/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/TH_CUSTOMER_SDL_ORM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSDL_ORM/TH_CUSTOMER_SDL_ORM/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/.idea/artifacts/Calculator_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Calculator/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Customers list/src/CustomerDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Customers management/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Customers management/Customers management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Customers management/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/Customers management/src/CustomersServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JSP AND JSTL/currency-converter-jsp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/artifacts/Customers__Management_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/libraries/taglibs_standard_impl_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/Customers  Management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/CustomerServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/Customers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/CustomersServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/com/codegym/service/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/com/codegym/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/com/codegym/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/src/com/codegym/service/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/WEB-INF/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/WEB-INF/customer/newlist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/newlist.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Customers  Management/web/customer/view.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MVC MODLE/Products Management/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CALCULATOR/src/controller/CalculateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CALCULATOR/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CALCULATOR/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CALCULATOR/web/WEB-INF/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CALCULATOR/web/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/.idea/artifacts/CONTROLLER_LOGIN_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/CONTROLLER_LOGIN/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/com/codegym/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/com/codegym/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/controller/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/controller/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/java/model/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/java/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/model/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/user/model/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/user/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/user/model/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/src/user/model/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/views/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/views/user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/LOGIN/web/WEB-INF/views/users.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/.idea/libraries/taglibs_standard_impl_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/src/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/src/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SANDWICH_SPRINGMVC/web/WEB-INF/views/show.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/libraries/Spring_4_3_18_RELEASE__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/libraries/Spring_4_3_18_RELEASE__3_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/modules/SPRING_TIMEZONE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/modules/SPRING_TIMEZONE_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/modules/SPRING_TIMEZONE_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/src/main/java/controller/TimeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/SPRING_TIMEZONE/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/java/controller/EmailController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/WEB-INF/views/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/views/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/TH_EMAIL/src/main/webapp/views/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING CONTROLLER/loginSpringMVC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_CURRENCY_CONVERTER/src/controller/Currency_converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_CURRENCY_CONVERTER/web/WEB-INF/VIEWS/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_CURRENCY_CONVERTER/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_CURRENCY_CONVERTER/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/src/controller/DICTIONARY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/src/controller/HashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/web/WEB-INF/views/Search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/web/WEB-INF/views/Search.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_DICTIONARY/web/WEB-INF/views/dictionary.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/SPRING_GREETING/src/controllers/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/artifacts/Spring_Greeting_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/Spring Greeting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/src/controllers/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/web/WEB-INF/views" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/Spring Greeting/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SPRING MVC/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/com/codegym/employees/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/java/employees/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/WEB-INF/views/employee/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/WEB-INF/views/employee/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/WEB-INF/views/employee/list-employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TH_MODULE2_TruongThiThanhDiemC0519G1/src/main/webapp/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/ProductDiscountCalculator/ProductDiscountCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/ProductDiscountCalculator/src/product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/.idea/artifacts/dictionary_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/src/DICTIONARY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TONG QUAN WEB/dictionary/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/cms/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/java/com/codegym/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/WEB-INF/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/WEB-INF/views/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/views/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Truong_Thi_Thanh_Diem/src/main/webapp/views/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/confi/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/confi/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/confi/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/controller/BlogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/entity/Blog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/repository/BlogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/service/BlogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/service/BlogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/blog-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/list-blog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/list-customers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/.idea/modules/BT_BLOG_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/cms/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/config/PersistenceJPAConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/com/codegym/cms/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/PersistenceJPAConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjrt-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/byte-buddy-1.6.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-5.2.17.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.25.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-core-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-jpa-2.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/views/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/views/list-customers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/WEB-INF/views/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/WEB-INF/views/list-customers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/main/webapp/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/config/PersistenceJPAConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/com/codegym/cms/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/AppInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/PersistenceJPAConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/entity/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/exception/ResourceNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/codegym/cms/service/CustomerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/activation-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjrt-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/byte-buddy-1.6.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-5.2.17.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.4.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.25.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-api-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-core-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-jpa-2.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/views/customer-form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/views/list-customers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/BT_BLOG/src/target/springmvc5-springdatajpa2-jsp-mysql-example-0.0.1-SNAPSHOT/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/customerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/customerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/impl/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/impl/CustomerRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/impl/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/repository/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/service/impl/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/views/customer/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/test/src/main/java/com/example/test/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/test/src/main/java/com/example/test/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/java/com/codegym/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/java/com/codegym/controller/UserControlller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/webapp/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/src/main/webapp/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/java/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/java/com/codegym/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/java/com/codegym/ApplicationInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/java/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/webapp/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-infor-user/src/main/webapp/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/java/com/codegym/controller/PhoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/java/com/codegym/model/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/java/controller/PhoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/java/model/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/java/model/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/resources/ValidationMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/resources/ValidationMessages.properties  .properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/webapp/WEB-INF/views/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customer-phone-validation/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/java/com/codegym/AppConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/java/com/codegym/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/java/com/codegym/controller/CounterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/java/com/codegym/controller/MyCounterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/java/com/codegym/model/MyCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hitcounter/src/main/webapp/WEB-INF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/.idea/artifacts/thithuchanh_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/.idea/artifacts/thithuchanh_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/PersistenceJPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/PersistenceJPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/confi/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/excepsion/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/java/com/codegym/cms/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/confi/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/confi/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/confi/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/java/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/list-employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/list-employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/views/employee/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../thithuchanh/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../van/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../van/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../van/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../van/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/artifacts/vvvvvv_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/customer/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/customer/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/customer/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/customer/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/config/AppInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/config/PersistenceJPAConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/java/com/codegym/employees/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/WEB-INF/views/employee/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/WEB-INF/views/employee/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/WEB-INF/views/employee/list-employee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/resources/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/resources/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/src/main/webapp/resources/js/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vvvvvv/vvvvvv.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DICTIONARY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DICTIONARY.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="987" />
+    <option name="y" value="114" />
+    <option name="width" value="846" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dictionary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.21" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="dictionary:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_21_dictionary" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63900" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dictionary:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6ef5765-bac9-4d0e-85fd-b2ea6482bfad" name="Default Changelist" comment="" />
+      <created>1562293908610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562293908610</updated>
+      <workItem from="1562293910054" duration="1574000" />
+      <workItem from="1562300280464" duration="331000" />
+      <workItem from="1562667260194" duration="755000" />
+      <workItem from="1571645493072" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2693000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4937833" visible="true" weight="0.26153848" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.5062167" side_tool="true" visible="true" weight="0.26153848" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DICTIONARY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

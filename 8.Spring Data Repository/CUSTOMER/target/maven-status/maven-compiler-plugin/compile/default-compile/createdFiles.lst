@@ -1,0 +1,15 @@
+com\codegym\cms\config\PersistenceJPAConfig.class
+com\codegym\cms\config\WebMvcConfig.class
+com\codegym\cms\repository\CustomerRepository.class
+com\codegym\cms\service\ProvinceServiceImpl.class
+com\codegym\cms\service\ProvinceService.class
+com\codegym\cms\controller\ProvinceController.class
+com\codegym\cms\formatter\ProvinceFormatter.class
+com\codegym\cms\repository\ProvinceRepository.class
+com\codegym\cms\entity\Customer.class
+com\codegym\cms\exception\ResourceNotFoundException.class
+com\codegym\cms\service\CustomerService.class
+com\codegym\cms\controller\CustomerController.class
+com\codegym\cms\service\CustomerServiceImpl.class
+com\codegym\cms\config\AppInitializer.class
+com\codegym\cms\entity\Province.class

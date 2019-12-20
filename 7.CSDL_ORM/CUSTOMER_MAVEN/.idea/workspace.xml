@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springmvc5-springdatajpa2-jsp-mysql-example:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc1cd6d8-1a02-49f1-8e5c-b8c6ab674416" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/entity/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/java/com/codegym/cms/service/ProvinceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER_THYMELEAF/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Spring Data Repository/spring-jpa-customer-management/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/java/com/codegym/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.Validating/sinup-form-validation/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/entity/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/java/com/codegym/cms/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/blog-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/views/list-blog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/BLOG_MAVEN/src/main/webapp/resources/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/customerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/java/com/codegym/cms/service/impl/CustomerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clone/customer-management/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI3_OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI5_Advanced_Object_Oriented_Design/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA/BAI6_Data_Structures_And_Algorithm_Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/FURAMA_RESORT.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/FuramaResort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/META-INF/FuramaResort.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/cinema/Cinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/Employees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/EmployeesMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/employees/EmployeesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/filing_cabinets/FilingCabinets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Accommodation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/CustomerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/HouseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/SwimmingPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/SwimmingPoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Tent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Villa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/VillaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/furama_resort/Visa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/BookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/MovieTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/library/MusicTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment_MasterCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/payment/Payment_Visa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/out/production/FuramaResort/vehicle/VehicleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/cinema/Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/Employees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/EmployeesMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/employees/EmployeesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/filing_cabinets/FilingCabinets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Accommodation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/CustomerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/HouseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/SwimmingPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/SwimmingPoolTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Tent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Villa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/VillaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/furama_resort/Visa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/MovieTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/library/MusicTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment_MasterCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/payment/Payment_Visa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/vehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA/Furama_Resort/src/vehicle/VehicleTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cms1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cms1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cms1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cms1: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cms1@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cms1: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="customer: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/config/AppInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/config/PersistenceJPAConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2080">
+              <caret line="104" column="26" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/entity/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/config/PersistenceJPAConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer-form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list-customers.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.11.1.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.11.1.min.js" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/target/classes/database.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/create.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/edit.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/delete.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codegym/cms/config/AppInitializer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springmvc5-springdatajpa2-jsp-mysql-example Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="169" />
+    <option name="y" value="90" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc_jpa_javaconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUSTOMER_MAVEN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../9.Validating/Validate_UserForm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31149426" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Jpa_java_config\src\main\webapp\resources\js" />
+      <recent name="D:\CodeGym\Jpa_java_config\src\main\webapp\resources\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\JAVA-BackEnd_C0519H_TRUONGTHITHANHDIEM\WEB\7.CSDL_ORM\CUSTOMER_MAVEN\src\main\webapp\WEB-INF\views\province" />
+      <recent name="D:\CodeGym\Jpa_java_config\src\main\resources" />
+      <recent name="D:\CodeGym\Jpa_java_config\src\main\java\com\codegym\cms" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="localServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.21" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="springmvc5-springdatajpa2-jsp-mysql-example:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_springmvc_jpa_javaconfig" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60149" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Jpa_java_config:war exploded" />
+          <artifact name="springmvc5-springdatajpa2-jsp-mysql-example:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1cd6d8-1a02-49f1-8e5c-b8c6ab674416" name="Default Changelist" comment="" />
+      <created>1563196384519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563196384519</updated>
+      <workItem from="1563196391596" duration="8297000" />
+      <workItem from="1563261288280" duration="9959000" />
+      <workItem from="1563290263959" duration="4444000" />
+      <workItem from="1563327738403" duration="710000" />
+      <workItem from="1563338385304" duration="51000" />
+      <workItem from="1563346440362" duration="100000" />
+      <workItem from="1563347516467" duration="11000" />
+      <workItem from="1563349731700" duration="1527000" />
+      <workItem from="1563375986612" duration="235000" />
+      <workItem from="1563436799441" duration="6854000" />
+      <workItem from="1563503569941" duration="1820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34008000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22348177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3605442" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="6" weight="0.12934947" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/database.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31553" selection-start-line="3" selection-start-column="31553" selection-end-line="3" selection-end-column="31553" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d7df42e3-fd88-4110-b9ce-d6d8545c6176/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/list-customers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/customer-form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jpa_java_config.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../8.Spring Data Repository/CUSTOMER/src/main/webapp/WEB-INF/views/province/delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/exception/ResourceNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/repository/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/service/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/database.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/config/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2080">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codegym/cms/config/PersistenceJPAConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springmvc5-springdatajpa2-jsp-mysql-example:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31149426" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31149426" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springmvc5-springdatajpa2-jsp-mysql-example</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31149426" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31149426" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

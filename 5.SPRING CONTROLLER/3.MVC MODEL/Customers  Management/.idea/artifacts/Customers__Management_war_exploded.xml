@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Customers  Management:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Customers__Management_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Customers  Management/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Customers  Management" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
+        </element>
+      </element>
+      <element id="module-output" name="Customers  Management" />
+    </root>
+  </artifact>
+</component>
